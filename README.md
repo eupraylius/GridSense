@@ -1,5 +1,7 @@
 # GridSense
 
+https://gridsense-ashen.vercel.app/
+
 GridSense is an intelligent smart energy monitoring and electricity waste analysis dashboard. It helps users analyze household electricity usage, estimate bills, detect inefficient appliances, and visualize energy consumption trends.
 
 ## Features
